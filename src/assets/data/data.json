@@ -1,0 +1,447 @@
+[
+    {
+      "id": 1,
+      "key": "Loop",
+      "ingles": "Loop",
+      "español": "Bucle"
+    },
+    {
+      "id": 2,
+      "key": "Break",
+      "ingles": "Break",
+      "español": "Romper"
+    },
+    {
+      "id": 3,
+      "key": "Code",
+      "ingles": "Code",
+      "español": "Codigo"
+    },
+    {
+      "id": 4,
+      "key": "Array",
+      "ingles": "Array",
+      "español": "Coleccion"
+    },
+    {
+      "id": 5,
+      "key": "Object",
+      "ingles": "Object",
+      "español": "Objecto"
+    },
+    {
+      "id": 6,
+      "key": "Argument",
+      "ingles": "Argument",
+      "español": "Argumento"
+    },
+    {
+      "id": 7,
+      "key": "Database",
+      "ingles": "Database",
+      "español": "Base de datos"
+    },
+    {
+      "id": 8,
+      "key": "Conditional",
+      "ingles": "Conditional",
+      "español": "Condicional"
+    },
+    {
+      "id": 9,
+      "key": "Inheritance",
+      "ingles": "Inheritance",
+      "español": "Herencia"
+    },
+    {
+      "id": 10,
+      "key": "Syntax",
+      "ingles": "Syntax",
+      "español": "Sintaxis"
+    },
+    {
+      "id": 11,
+      "key": "Style",
+      "ingles": "Style",
+      "español": "Estilo"
+    },
+    {
+      "id": 12,
+      "key": "Component",
+      "ingles": "Component",
+      "español": "Componentes"
+    },
+    {
+      "id": 13,
+      "key": "Generate",
+      "ingles": "Generate",
+      "español": "Generar"
+    },
+    {
+      "id": 14,
+      "key": "Run",
+      "ingles": "Run",
+      "español": "Correr"
+    },
+    {
+      "id": 15,
+      "key": "Save",
+      "ingles": "Save",
+      "español": "Salvar"
+    },
+    {
+      "id": 16,
+      "key": "While",
+      "ingles": "While",
+      "español": "Mientras"
+    },
+    {
+      "id": 17,
+      "key": "For",
+      "ingles": "For",
+      "español": "Para"
+    },
+    {
+      "id": 18,
+      "key": "Developer",
+      "ingles": "Developer",
+      "español": "Desarrollador"
+    },
+    {
+      "id": 19,
+      "key": "Return",
+      "ingles": "Return",
+      "español": "Retornar"
+    },
+    {
+      "id": 20,
+      "key": "Implement",
+      "ingles": "Implement",
+      "español": "Implementar"
+    },
+    {
+      "id": 21,
+      "key": "Concatenate",
+      "ingles": "Concatenate",
+      "español": "Concatenar"
+    },
+    {
+      "id": 22,
+      "key": "Import",
+      "ingles": "Import",
+      "español": "Importar"
+    },
+    {
+      "id": 23,
+      "key": "Build",
+      "ingles": "Build",
+      "español": "Construcción"
+    },
+    {
+      "id": 24,
+      "key": "Commit",
+      "ingles": "Commit",
+      "español": "Comprometerse"
+    },
+    {
+      "id": 25,
+      "key": "Encapsulation",
+      "ingles": "Encapsulation",
+      "español": "Encapsulamiento"
+    },
+    {
+      "id": 26,
+      "key": "Polymorphism",
+      "ingles": "Polymorphism",
+      "español": "Polimorfismo"
+    },
+    {
+      "id": 27,
+      "key": "Container",
+      "ingles": "Container",
+      "español": "Contenedor"
+    },
+    {
+      "id": 28,
+      "key": "Debugging",
+      "ingles": "Debugging",
+      "español": "Depuracion"
+    },
+    {
+      "id": 29,
+      "key": "Namespace",
+      "ingles": "Namespace",
+      "español": "Espacio de Nombres"
+    },
+    {
+      "id": 30,
+      "key": "Right",
+      "ingles": "Right",
+      "español": "Derecha"
+    },
+    {
+      "id": 31,
+      "key": "Top",
+      "ingles": "Top",
+      "español": "Abajo"
+    },
+    {
+      "id": 32,
+      "key": "Bottom",
+      "ingles": "Bottom",
+      "español": "Arriba"
+    },
+    {
+      "id": 33,
+      "key": "Justify",
+      "ingles": "Justify",
+      "español": "Justificar"
+    },
+    {
+      "id": 34,
+      "key": "Label",
+      "ingles": "Label",
+      "español": "Etiqueta"
+    },
+    {
+      "id": 35,
+      "key": "Delete",
+      "ingles": "Delete",
+      "español": "Borrar"
+    },
+    {
+      "id": 36,
+      "key": "Abstraction",
+      "ingles": "Abstraction",
+      "español": "Abstraccion"
+    },
+    {
+      "id": 37,
+      "key": "Concurrency",
+      "ingles": "Concurrency",
+      "español": "Concurrencia"
+    },
+    {
+      "id": 38,
+      "key": "Parallelism",
+      "ingles": "Parallelism",
+      "español": "Paralelismo"
+    },
+    {
+      "id": 39,
+      "key": "Bug",
+      "ingles": "Bug",
+      "español": "Fallo"
+    },
+    {
+      "id": 40,
+      "key": "Data",
+      "ingles": "Data",
+      "español": "Datos"
+    },
+    {
+      "id": 41, "key": "Services",
+      "ingles": "Services",
+      "español": "Servicios"
+    },
+    {
+      "id": 42, 
+      "key": "Injectable",
+      "ingles": "Injectable",
+      "español": "Inyectable"
+    },
+    {
+      "id": 43, 
+      "key": "Export", 
+      "ingles": "Export", 
+      "español": "Exportar"
+    },
+    {
+      "id": 44, 
+      "key": "Routes", 
+      "ingles": "Routes", 
+      "español": "Rutas"
+    },
+    {
+       "id": 45, 
+       "key": "Import", 
+       "ingles": "Import", 
+       "español": "Importar"
+    },
+    {
+        "id": 46, 
+        "key": "Loading", 
+        "ingles": "Loading", 
+        "español": "Cargando"
+    },
+    {
+        "id": 47, 
+        "key": "Binary Numbers", 
+        "ingles": "Binary Numbers", 
+        "español": "Números Binarios"
+    },
+    {
+        "id": 48, 
+        "key": "Selector", 
+        "ingles": "Selector", 
+        "español": "Selector"
+    },
+    {
+        "id": 49, 
+        "key": "Link", 
+        "ingles": "Link", 
+        "español": "Enlace"
+    },
+    {
+        "id": 50, 
+        "key": "Get", 
+        "ingles": "Get", 
+        "español": "Obtener"
+    },
+    {
+        "id": 51, 
+        "key": "Obtain", 
+        "ingles": "Obtain", 
+        "español": "Obtener"
+    },
+    {
+        "id": 52, 
+        "key": "Ways", 
+        "ingles": "Ways", 
+        "español": "Maneras"
+    },
+    {
+        "id": 53, 
+        "key": "Appropriate", 
+        "ingles": "Appropriate", 
+        "español": "Adecuado"
+    },
+    {
+        "id": 54, 
+        "key": "Review", 
+        "ingles": "Review", 
+        "español": "Revisar"
+    },
+    {
+        "id": 55, 
+        "key": "Promise", 
+        "ingles": "Promise", 
+        "español": "Prometer"
+    },
+    {
+        "id": 56, 
+        "key": "Index", 
+        "ingles": "Index", 
+        "español": "Índice"
+    },
+    {
+        "id": 57, 
+        "key": "Fragment", 
+        "ingles": "Fragment", 
+        "español": "Fragmento"
+    },
+    {
+        "id": 58, 
+        "key": "Applications", 
+        "ingles": "Applications", 
+        "español": "Aplicaciones"
+    },
+    {
+        "id": 59, 
+        "key": "Class", 
+        "ingles": "Class", 
+        "español": "Clase"
+    },
+    { 
+        "id": 20, 
+        "key": "Copy", 
+        "ingles": "Copy", 
+        "español": "Copiar"
+    },
+    {
+        "id": 21, 
+        "key": "Identation", 
+        "ingles": "Identation", 
+        "español": "Identacion"
+    },
+    {
+        "id": 22, 
+        "key": "Function", 
+        "ingles": "Function", 
+        "español": "Funcion"
+    },
+    {
+        "id": 23, 
+        "key": "Modifiers", 
+        "ingles": "Modifiers", 
+        "español": "Modificadores"
+    },
+    {
+        "id": 24, 
+        "key": "Type", 
+        "ingles": "Type", 
+        "español": "Tipo"
+    },
+    {
+        "id": 25, 
+        "key": "Primary key", 
+        "ingles": "Primary key", 
+        "español": "Clave primaria"
+    },
+    {
+        "id": 26, 
+        "key": "Storage", 
+        "ingles": "Storage", 
+        "español": "Almacenamiento"
+    },
+    {
+        "id": 27, 
+        "key": "Extensions", 
+        "ingles": "Extensions", 
+        "español": "Extenciones"
+    },
+    {
+        "id": 28, 
+        "key": "Connection", 
+        "ingles": "Connection", 
+        "español": "Conexion"
+    },
+    {
+        "id": 29, 
+        "key": "Screen", 
+        "ingles": "Screen", 
+        "español": "Pantalla"
+    },
+    { 
+        "id": 30, 
+        "key": "Program", 
+        "ingles": "Program", 
+        "español": "Programa"
+    },
+    {
+        "id": 31, 
+        "key": "Callback", 
+        "ingles": "Callback", 
+        "español": "Retro llamada"
+    },
+    {
+        "id": 32, 
+        "key": "Payload", 
+        "ingles": "Payload", 
+        "español": "Carga Util"
+    },
+    {
+        "id": 33, 
+        "key": "Memoization", 
+        "ingles": "Memoization", 
+        "español": "Memorización"
+    },
+    {
+        "id": 34, 
+        "key": "Streaming", 
+        "ingles": "Streaming", 
+        "español": "Transmisión"
+    }
+]
+
+  
